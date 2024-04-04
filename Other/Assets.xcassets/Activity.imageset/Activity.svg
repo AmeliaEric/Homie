@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Activity</title>
+    <g id="Raw-File" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-dasharray="0,0" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Task" transform="translate(-247, -734)" stroke="#C6CEDD" stroke-width="1.5">
+            <g id="Group-682" transform="translate(29, 708)">
+                <g id="Group-681" transform="translate(20, 12)">
+                    <g id="Iconly/Curved/Activity" transform="translate(197, 13)">
+                        <g id="Activity" transform="translate(2.4497, 2.3496)">
+                            <path d="M4.46777344,12.5046248 L7.46077347,8.61562502 L10.8747735,11.295625 L13.8037739,7.515625" id="Stroke-1"></path>
+                            <path d="M19.1394103,1.92200005 C19.1394103,2.98300004 18.2794102,3.8440001 17.2174102,3.8440001 C16.1554102,3.8440001 15.2954102,2.98300004 15.2954102,1.92200005 C15.2954102,0.860000014 16.1554102,0 17.2174102,0 C18.2794102,0 19.1394103,0.860000014 19.1394103,1.92200005 Z" id="Stroke-2"></path>
+                            <path d="M18.3059998,6.91912508 C18.4389998,7.81412506 18.5,8.82212496 18.5,9.953125 C18.5,16.8911252 16.1880002,19.203125 9.25,19.203125 C2.3130002,19.203125 0,16.8911252 0,9.953125 C0,3.0161252 2.3130002,0.703125 9.25,0.703125 C10.36,0.703125 11.3509998,0.762125 12.2329998,0.890125006" id="Stroke-4"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

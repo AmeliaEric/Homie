@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Home</title>
+    <g id="Raw-File" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-dasharray="0,0" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Task" transform="translate(-50, -734)" stroke="#C6CEDD" stroke-width="1.5">
+            <g id="Group-682" transform="translate(29, 708)">
+                <g id="Group-681" transform="translate(20, 12)">
+                    <g id="Iconly/Curved/Home" transform="translate(0, 13)">
+                        <g id="Home" transform="translate(2.3999, 2)">
+                            <path d="M3.91899991,3.41000009 C5.36499989,2.24600005 7.61499965,0 9.55799961,0 C11.5,0 13.7949997,2.23500013 15.2539997,3.41000009 C18.5589998,6.47500014 19.1720009,6.08200026 19.1720009,11.7130003 C19.1720009,20 17.2130003,20 9.58600044,20 C1.95900059,20 0,20 0,11.7130003 C0,6.08200026 0.613999844,6.47500014 3.91899991,3.41000009 Z" id="Stroke-2"></path>
+                            <line x1="6.67871094" y1="14.1367188" x2="12.493711" y2="14.1367188" id="Stroke-1"></line>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
