@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="21px" viewBox="0 0 18 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Lock</title>
+    <g id="Raw-File" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-dasharray="0,0" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Signup" transform="translate(-38, -297)" stroke="#A4A4A6" stroke-width="1.5">
+            <g id="Group-736" transform="translate(35, 295)">
+                <g id="Lock" transform="translate(4.2505, 2.75)">
+                    <path d="M12.2206097,6.65335274 L12.2206097,4.50435257 C12.1896097,1.98535252 10.1216094,-0.0306472256 7.60360956,0.000352773844 C5.13660955,0.0313527733 3.14160937,2.01735258 3.09960938,4.48435259 L3.09960938,6.65335274" id="Stroke-1"></path>
+                    <line x1="7.66015625" y1="11.40625" x2="7.66015625" y2="13.62725" id="Stroke-3"></line>
+                    <path d="M0,12.3452187 C0,17.0492187 1.91499996,18.617219 7.65999985,18.617219 C13.4049997,18.617219 15.3210001,17.0492187 15.3210001,12.3452187 C15.3210001,7.64221859 13.4049997,6.07421875 7.65999985,6.07421875 C1.91499996,6.07421875 0,7.64221859 0,12.3452187 Z" id="Stroke-5"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
