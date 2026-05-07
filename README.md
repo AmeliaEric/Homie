@@ -36,8 +36,9 @@ Watch the full demo on YouTube: **[https://youtu.be/uvxYLSialgE](https://youtu.b
 ## Screenshots
  
 <div align="center">
-| <img src="./Screenshots/HomePage.PNG" width="220" alt="Login screen" /> | <img src="./Screenshots/Calendar.PNG" width="220" alt="Home dashboard" /> | <img src="./Screenshots/ShoppingList.PNG" width="220" alt="Home dashboard" /> | <img src="./Screenshots/ToDoList.PNG" width="220" alt="Home dashboard" /> |
- 
+| Home Dashboard | Calendar Dashboard |
+|:---:|:---:|
+| <img src="./Screenshots/HomePage.PNG" width="220" alt="Homepage Dashboard" /> | <img src="./Screenshots/Calendar.PNG" width="220" alt="Calendar Dashboard" /> |
 </div>
  
 ---
