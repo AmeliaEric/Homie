@@ -38,7 +38,7 @@ Watch the full demo on YouTube: **[https://youtu.be/uvxYLSialgE](https://youtu.b
 <div align="center">
 | Login & Sign Up | Home Dashboard |
 |:---:|:---:|
-| <img src="./Screenshots/HomePage.png" width="220" alt="Login screen" /> | <img src="./Screenshots/Calendar.png" width="220" alt="Home dashboard" /> |
+| <img src="./Screenshots/HomePage.PNG" width="220" alt="Login screen" /> | <img src="./Screenshots/Calendar.PNG" width="220" alt="Home dashboard" /> |
  
 </div>
 ➡️ **[View all screenshots](./Screenshots/README.md)**
