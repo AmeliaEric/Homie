@@ -16,7 +16,7 @@ A full visual walkthrough of the Homie iOS app.
 
 | Home Dashboard |
 |:---:|
-| <img src="./Screenshots/HomePage.PNG" width="220" alt="Home dashboard" /> |
+| <img src="./HomePage.PNG" width="220" alt="Home dashboard" /> |
 | Your at-a-glance summary of tasks and household activity |
 
 </div>
@@ -29,7 +29,7 @@ A full visual walkthrough of the Homie iOS app.
 
 | Task List | Task Details |
 |:---:|:---:|
-| <img src="./Screenshots/ToDoList.PNG" width="220" alt="To Do list" /> | <img src="./Screenshots/ToDoDetails.PNG" width="220" alt="Task detail" /> |
+| <img src="./ToDoList.PNG" width="220" alt="To Do list" /> | <img src="./ToDoDetails.PNG" width="220" alt="Task detail" /> |
 | All shared household tasks | View and complete a task |
 
 </div>
@@ -42,7 +42,7 @@ A full visual walkthrough of the Homie iOS app.
 
 | Event List | Event Creation | Event Details |
 |:---:|:---:|:---:|
-| <img src="./Screenshots/Calendar.PNG" width="220" alt="Calendar with list of events" /> | <img src="./Screenshots/NewEvent.PNG" width="220" alt="Event Creation" /> | <img src="./Screenshots/EventDetails.PNG" width="220" alt="Event detail" /> |
+| <img src="./Calendar.PNG" width="220" alt="Calendar with list of events" /> | <img src="./NewEvent.PNG" width="220" alt="Event Creation" /> | <img src="./EventDetails.PNG" width="220" alt="Event detail" /> |
 | All shared household events  | Create a new event | View and edit a scheduled event |
 
 </div>
@@ -54,7 +54,7 @@ A full visual walkthrough of the Homie iOS app.
 
 | Shopping List | Item Details |
 |:---:|:---:|
-| <img src="./Screenshots/ShoppingList.PNG" width="220" alt="Shopping list with items to buy" /> | <img src="./Screenshots/ShoppingItemDetails.PNG" width="220" alt="Item Details Screen" /> |
+| <img src="./ShoppingList.PNG" width="220" alt="Shopping list with items to buy" /> | <img src="./ShoppingItemDetails.PNG" width="220" alt="Item Details Screen" /> |
 | All shared household events | View and edit a shopping item |
 
 
