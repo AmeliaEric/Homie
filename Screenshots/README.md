@@ -51,12 +51,14 @@ A full visual walkthrough of the Homie iOS app.
 
 ## Shopping List Management
 
+<div align="center">
 
 | Shopping List | Item Details |
 |:---:|:---:|
 | <img src="./ShoppingList.PNG" width="220" alt="Shopping list with items to buy" /> | <img src="./ShoppingItemDetails.PNG" width="220" alt="Item Details Screen" /> |
 | All shared household events | View and edit a shopping item |
 
+</div>
 
 ---
 
