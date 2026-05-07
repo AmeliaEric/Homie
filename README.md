@@ -36,9 +36,12 @@ Watch the full demo on YouTube: **[https://youtu.be/uvxYLSialgE](https://youtu.b
 ## Screenshots
  
 <div align="center">
-| Home Dashboard | Calendar Dashboard |
-|:---:|:---:|
-| <img src="./Screenshots/HomePage.PNG" width="220" alt="Homepage Dashboard" /> | <img src="./Screenshots/Calendar.PNG" width="220" alt="Calendar Dashboard" /> |
+
+| Home Dashboard | Calendar/Events List | To Do List | Shopping List | 
+|:---:|:---:|:---:|:---:|
+| <img src="./Screenshots/HomePage.PNG" width="200" alt="Home dashboard" /> | <img src="./Screenshots/Calendar.PNG" width="200" alt="Calendar Events dashboard" /> | <img src="./Screenshots/ToDoList.PNG" width="220" alt="To Do List dashboard" /> | <img src="./Screenshots/ShoppingList.PNG" width="200" alt="Shopping list dashboard" /> |
+| Your at-a-glance summary of tasks and household activity | A calendar with daily events listed in time order | Your tasks listed by due date | Your shopping list arranged alphabetically |
+
 </div>
  
 ---
