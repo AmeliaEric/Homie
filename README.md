@@ -11,7 +11,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-iOS-lightgrey?style=flat-square&logo=apple)](https://developer.apple.com/ios/)
 
-[Demo Video](#demo) · [Features](#features) · [Getting Started](#getting-started) · [Tech Stack](#tech-stack) · [Project Structure](#project-structure)
+[Demo Screenshots/Video](#demo) · [Features](#features) · [Getting Started](#getting-started) · [Tech Stack](#tech-stack) · [Project Structure](#project-structure)
 
 </div>
 
@@ -19,15 +19,16 @@
 
 ## Overview
 
-**Homie** is an iOS mobile application designed to simplify shared living. Whether you're splitting chores, managing shared tasks, or keeping your household organized, Homie gives roommates a single collaborative space to stay on the same page.
-
-Built as a capstone project, Homie is a full-stack application with a native Swift frontend, a Ruby-powered backend, and Firebase for real-time data persistence and user authentication.
+Shared living shouldn't be complicated. **Homie** is a native iOS app that makes it easy for roommates and families to coordinate household tasks, manage shared responsibilities, and stay organized — all in real time.
+ 
+Built as a capstone project, Homie is a full-stack application with a native Swift/SwiftUI frontend, a Ruby-powered backend, and Firebase for live data synchronization and secure user authentication. Every change — a completed chore, a new task, an updated profile — is reflected instantly across all roommates' devices.
 
 ---
 
 ## Demo
 
-📺 Watch the full demo on YouTube: **[https://youtu.be/uvxYLSialgE](https://youtu.be/uvxYLSialgE)**
+Screenshots available: **[https://github.com/AmeliaEric/Homie/tree/main/Screenshots](https://github.com/AmeliaEric/Homie/tree/main/Screenshots)**
+Watch the full demo on YouTube: **[https://youtu.be/uvxYLSialgE](https://youtu.be/uvxYLSialgE)**
 
 ---
 
@@ -64,6 +65,7 @@ Homie/
 ├── Other/                   # App configuration and helper files
 ├── Pods/                    # CocoaPods dependencies
 ├── Preview Content/         # Xcode preview assets
+├── Screenshots/             # PNG photos of SwiftUI views
 ├── ToDoList.xcodeproj       # Xcode project file
 ├── ToDoList.xcworkspace     # Xcode workspace (use this to open the project)
 ├── ToDoListTests/           # Unit tests
@@ -118,6 +120,20 @@ Before you begin, make sure you have the following installed:
 5. **Build and run:**
    - Select your target simulator or a connected iOS device
    - Press `Cmd + R` or click the ▶ Run button in Xcode
+     
+---
+
+## Author
+
+### Amelia Eric-Markovic
+
+Software Developer & Computer Science Student
+
+Portfolio:  
+https://ameliaeric.github.io/
+
+GitHub:  
+https://github.com/AmeliaEric
 
 ---
 
