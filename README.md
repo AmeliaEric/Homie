@@ -32,6 +32,18 @@ Screenshots available: **[https://github.com/AmeliaEric/Homie/tree/main/Screensh
 Watch the full demo on YouTube: **[https://youtu.be/uvxYLSialgE](https://youtu.be/uvxYLSialgE)**
 
 ---
+ 
+## 📸 Screenshots
+ 
+<div align="center">
+| Login & Sign Up | Home Dashboard |
+|:---:|:---:|
+| <img src="./Screenshots/HomePage.png" width="220" alt="Login screen" /> | <img src="./Screenshots/Calendar.png" width="220" alt="Home dashboard" /> |
+ 
+</div>
+➡️ **[View all screenshots](./Screenshots/README.md)**
+ 
+---
 
 ## Features
 
