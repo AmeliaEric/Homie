@@ -11,7 +11,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-iOS-lightgrey?style=flat-square&logo=apple)](https://developer.apple.com/ios/)
 
-[Demo Screenshots/Video](#demo) · [Features](#features) · [Getting Started](#getting-started) · [Tech Stack](#tech-stack) · [Project Structure](#project-structure)
+[Screenshots](#screenshots) · [Demo Video](#demo) · [Features](#features) · [Getting Started](#getting-started) · [Tech Stack](#tech-stack) · [Project Structure](#project-structure)
 
 </div>
 
@@ -33,13 +33,12 @@ Watch the full demo on YouTube: **[https://youtu.be/uvxYLSialgE](https://youtu.b
 
 ---
  
-## 📸 Screenshots
+## Screenshots
  
 <div align="center">
 | <img src="./Screenshots/HomePage.PNG" width="220" alt="Login screen" /> | <img src="./Screenshots/Calendar.PNG" width="220" alt="Home dashboard" /> | <img src="./Screenshots/ShoppingList.PNG" width="220" alt="Home dashboard" /> | <img src="./Screenshots/ToDoList.PNG" width="220" alt="Home dashboard" /> |
  
 </div>
-➡️ **[View all screenshots](./Screenshots/README.md)**
  
 ---
 
