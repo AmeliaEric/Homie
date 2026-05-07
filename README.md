@@ -28,6 +28,7 @@ Built as a capstone project, Homie is a full-stack application with a native Swi
 ## Demo
 
 Screenshots available: **[https://github.com/AmeliaEric/Homie/tree/main/Screenshots](https://github.com/AmeliaEric/Homie/tree/main/Screenshots)**
+
 Watch the full demo on YouTube: **[https://youtu.be/uvxYLSialgE](https://youtu.be/uvxYLSialgE)**
 
 ---
